@@ -4,7 +4,7 @@ author: Sofia_Guimaraes
 only_build_toc_files: true
 
 execute:
-  execute_notebooks: "off"
+  execute_notebooks: force
 
 sphinx:
   config:
